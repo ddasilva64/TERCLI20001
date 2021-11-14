@@ -2,7 +2,7 @@
 description: >-
   This document is my personal notes from the Platzi Terminal and Command Line
   Introduction course. I thank the Platzi team and especially Professor Enrique
-  Devars for this great course, and the colleag
+  Devars for this great course.
 ---
 
 # Abstract
