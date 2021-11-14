@@ -51,5 +51,5 @@ English is the international language. That's all folks!.
 
 [Personal blog (English, Spanish, Catalan) - WordPress -](https://gwst.eu)\
 [Professional portfolio (English) - GitHub -](https://github.com/ddasilva64)\
-[Notes, book comentaries and so on (English) - GitBook -](https://app.gitbook.com/@daniel-da-silva-jarque/spaces)\
+Notes, book comentaries and so on (English) - GitBook -\
 [Professional profile (English) - LinkedIn -](https://linkedin.com/in/daniel-da-silva-jarque-863705206)
