@@ -1,7 +1,7 @@
 ---
 description: >-
   This document is my personal notes from the Platzi Terminal and Command Line
-  Introduction course. I thank the Platzi team and especially teacher Enrique
+  Introduction course. I thank the Platzi team and, especially teacher Enrique
   Devars for this great course.
 ---
 
